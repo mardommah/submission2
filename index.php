@@ -47,7 +47,7 @@ $result = $blobClient->listBlobs($containerName, $listBlobsOptions);
 		</div>
 		<br>
 		<br>
-		<table class='table table-hover'>
+		<table class='table table-hover' border='1px'>
 			<thead>
 				<tr>
 					<th>File Name</th>
